@@ -1,0 +1,32 @@
+java-backend-interview-notes/
+│
+├── README.md
+│
+├── oop/
+│   ├── class-and-object.txt
+│   ├── anonymous-object.txt
+│   ├── inheritance.txt
+│   ├── polymorphism.txt
+│   └── encapsulation.txt
+│
+├── core-java/
+│   ├── string.txt
+│   ├── collections.txt
+│   ├── exception-handling.txt
+│   └── multithreading.txt
+│
+├── spring-boot/
+│   ├── annotations.txt
+│   ├── rest-api.txt
+│   ├── dependency-injection.txt
+│   └── transactional.txt
+│
+├── sql/
+│   ├── joins.txt
+│   ├── indexing.txt
+│   └── transactions.txt
+│
+└── system-design/
+    ├── caching.txt
+    ├── load-balancer.txt
+    └── microservices.txt
